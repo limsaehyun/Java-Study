@@ -4,13 +4,14 @@
 
 따라야 하는 암묵적인 규칙을 Java Naming Convention(자바 명명 규칙, 자바 네이밍 규칙)이라고 한다.
 
-
+___
 
 **1. 클래스(Class), 인터페이스(Interface)**
 
 명사여야하고 대문자로 시작해야 한다
 
 EX : class Animal, Interface Person
+
 
  
 
@@ -28,6 +29,7 @@ EX : void methodTest
 
  
 
+
 **3. 변수 (Variables)**
 
 변수는 소문자로 시작하며,
@@ -40,6 +42,7 @@ EX : String name = "TEST";
 
 int test = 10;
 
+
  
 
 **4. 상수(Constant)**
@@ -50,6 +53,7 @@ int test = 10;
 
 EX) int MAX_VALUE;
 
+ 
  
 
 **5. 패키지 (Package)**
