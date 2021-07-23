@@ -1,0 +1,2 @@
+module study0723 {
+}
