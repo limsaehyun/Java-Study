@@ -1,3 +1,14 @@
+public class CalculatorDemo4 {
+    public static void main(String[] args) {
+
+        Calculator c1 = new Calculator();
+        c1.setOprands(10, 20);
+        c1.sum();
+        c1.avg();
+
+    }
+}
+
 class Calculator {
     int left;
     int right;
